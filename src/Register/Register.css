@@ -1,0 +1,9 @@
+.form{
+
+    padding: 10px;
+    }
+    
+    .form-control::placeholder {
+        color: rgb(201, 201, 208) !important; 
+        font-size: small;
+      }
